@@ -1,8 +1,8 @@
 {
   "Tools":
     [
-      {"Name": "Antler Pickaxe", "Ingredients": ["10 x Wood", "1 x Hardened Antler"], "ItemImage": "https://static.wikia.nocookie.net/valheim/images/3/3a/Antler_pickaxe.png", "ItemLink": "https://valheim.fandom.com/wiki/Antler_pickaxe", "Heading", "1"},
-      {"Name": "Blackmetal Axe", "Ingredients": ["6 x Fine Wood", "20 x Blackmetal", "5 x Linen Thread"], "ItemImage": "https://static.wikia.nocookie.net/valheim/images/0/0e/Blackmetal_axe.png", "ItemLink": "https://valheim.fandom.com/wiki/Blackmetal_axe", "Heading", "0"}
+      {"Name": "Antler Pickaxe", "Ingredients": ["10 x Wood", "1 x Hardened Antler"], "ItemImage": "https://static.wikia.nocookie.net/valheim/images/3/3a/Antler_pickaxe.png", "ItemLink": "https://valheim.fandom.com/wiki/Antler_pickaxe", "Heading": "1"},
+      {"Name": "Blackmetal Axe", "Ingredients": ["6 x Fine Wood", "20 x Blackmetal", "5 x Linen Thread"], "ItemImage": "https://static.wikia.nocookie.net/valheim/images/0/0e/Blackmetal_axe.png", "ItemLink": "https://valheim.fandom.com/wiki/Blackmetal_axe", "Heading": "0"}
     
     
     

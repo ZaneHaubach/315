@@ -1,6 +1,7 @@
 {
   "Tools":
     [
+      {"Name": "Axes", "Ingredients": [""], "ItemImage": "", "ItemLink": "", "Heading": "1"},
       {"Name": "Flint Axe", "Ingredients": ["4 x Wood", "6 x Flint"], "ItemImage": "https://static.wikia.nocookie.net/valheim/images/0/0b/Flint_axe.png", "ItemLink": "https://valheim.fandom.com/wiki/Flint_axe", "Heading": "0"},
       {"Name": "Stone Axe", "Ingredients": ["5 x Wood", "4 x Stone"], "ItemImage": "https://static.wikia.nocookie.net/valheim/images/c/ca/Stone_axe.png", "ItemLink": "https://valheim.fandom.com/wiki/Stone_axe", "Heading": "0"},
       {"Name": "Bronze Axe", "Ingredients": ["4 x Wood", "8 x Bronze", "2 x Leather Scraps"], "ItemImage": "https://static.wikia.nocookie.net/valheim/images/e/ed/Bronze_axe.png", "ItemLink": "https://valheim.fandom.com/wiki/Bronze_axe", "Heading": "0"},
